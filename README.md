@@ -1,5 +1,3 @@
-# ai-phishing-email-detection
-Phishing email detection using NLP, Logistic Regression, and explainable AI
 # AI-Powered Phishing Email Detection and Explanation System
 
 A machine learning project for detecting phishing emails using natural language processing and explainable AI techniques.
